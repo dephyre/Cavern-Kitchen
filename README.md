@@ -25,12 +25,12 @@ pip install pygame
 
 Run the game:
 ```bash
-python dungeon_game.py
+python Cavern-Kitchen-v.01.py
 ```
 
 Custom dungeon size:
 ```bash
-python dungeon_game.py 50 25  # 50 wide, 25 tall
+python Cavern-Kitchen-v.01.py 50 25  # 50 wide, 25 tall
 ```
 
 ## Controls
@@ -151,7 +151,7 @@ Game runs without audio files.
 
 ```
 dungeon/
-├── dungeon_game.py
+├── Cavern-Kitchen-v.01.py
 ├── dungeon_generator.py
 ├── build_linux.sh
 ├── build_windows.bat
